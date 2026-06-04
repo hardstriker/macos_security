@@ -14,6 +14,8 @@
   <a href="https://github.com/usnistgov/macos_security/stargazers"><img src="https://badgen.net/github/stars/usnistgov/macos_security" alt="Stars"></a>
 </p>
 
+***NOTE: This project now utilizes the Main branch from June 2026 forward***
+
 **Supported platforms:** macOS, iOS/iPadOS, and visionOS.
 
 The macOS Security Compliance Project (mSCP) is an [open-source](LICENSE.md) project that helps organizations secure their Apple devices. You choose the security rules to enforce, and mSCP generates everything you need:
